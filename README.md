@@ -2,7 +2,10 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mintai09&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
+
 ![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=mintai01) 
+ 
+ 
  
 ### Career
 |         Type        |    Date   |             Contents            |         Organization         |
