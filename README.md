@@ -1,8 +1,15 @@
 ### Hi there 👋
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mintai09&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
  
  
+### Career
+|         Type        |    Date   |             Contents            |         Organization         |
+|:-------------------:|:---------:|:-------------------------------:|:----------------------------:|
+|      Education      | 2018.3. ~ |      Department of Software     |     SangMyung  University    |
+| Research activities |  2020.3 ~ | Undergraduate Research Students | SangMyung University- SMWT:Lab |
+
 
 ## My Skill Set  
 <div align="center">  
