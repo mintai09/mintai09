@@ -12,7 +12,7 @@
 |         Type        |    Date           |             Contents            |         Organization           |
 |:-------------------:|:-----------------:|:-------------------------------:|:------------------------------:|
 |      Education      | 2018.3. ~         |      Department of Software     |     SangMyung  University      |
-| Research activities |  2020.3 ~         | Undergraduate Research Students | SangMyung University- SMWT:Lab |
+| Research activities |  2020.3 ~         | Undergraduate Research Students | SangMyung University- IS:Lab |
 | University Club     |  2019.3 ~ 2021.02 | 	Vice - President               | CodeCure                       |
 
 ## My Skill Set  
