@@ -35,6 +35,8 @@ AI RESEARCHER · DEEP LEARNING ENGINEER
 
 ## 🚀 Selected Work
 
+모든 프로젝트는 **[라이브 데모 사이트](https://demo-gateway.mintai.workers.dev/)** 에서 직접 실행해볼 수 있습니다.
+
 | # | 프로젝트 | 핵심 성과 |
 |---|---------|----------|
 | 01 | **무인 드라이브 스루 로봇 카페 음성 주문** — 초거대 AI 결합 | 평균 응답 2초 이내 · 주문 인식 정확도 90%+ · KCI 논문 및 언론 보도 |
@@ -64,8 +66,11 @@ AI RESEARCHER · DEEP LEARNING ENGINEER
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mintai09&show_icons=true&hide_border=true&bg_color=17171a&title_color=0044ff&icon_color=ff5227&text_color=f5f4f0" alt="GitHub stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mintai09&layout=compact&hide_border=true&bg_color=17171a&title_color=0044ff&text_color=f5f4f0" alt="Top languages" height="165"/>
+<img src="https://streak-stats.demolab.com?user=mintai09&hide_border=true&background=17171A&ring=0044FF&fire=FF5227&currStreakNum=F5F4F0&sideNums=F5F4F0&currStreakLabel=0044FF&sideLabels=F5F4F0&dates=8A8A8E" alt="GitHub streak stats" height="165"/>
+
+<br/><br/>
+
+<a href="https://github.com/mintai09"><img src="https://ghchart.rshah.org/0044ff/mintai09" alt="Contribution graph" width="90%"/></a>
 
 </div>
 
