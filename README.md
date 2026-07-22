@@ -35,8 +35,6 @@ AI RESEARCHER · DEEP LEARNING ENGINEER
 
 ## 🚀 Selected Work
 
-모든 프로젝트는 **[라이브 데모 사이트](https://demo-gateway.mintai.workers.dev/)** 에서 직접 실행해볼 수 있습니다.
-
 | # | 프로젝트 | 핵심 성과 |
 |---|---------|----------|
 | 01 | **무인 드라이브 스루 로봇 카페 음성 주문** — 초거대 AI 결합 | 평균 응답 2초 이내 · 주문 인식 정확도 90%+ · KCI 논문 및 언론 보도 |
