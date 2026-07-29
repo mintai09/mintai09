@@ -35,7 +35,7 @@ AI RESEARCHER · DEEP LEARNING ENGINEER
 
 ## 🚀 Selected Work
 
-모든 프로젝트는 **[라이브 데모 사이트](https://demo-gateway.mintai.workers.dev/)** 에서 직접 실행해볼 수 있습니다.
+프로젝트는 **[라이브 데모 사이트](https://demo-gateway.mintai.workers.dev/)** 에서 직접 실행해볼 수 있습니다.
 
 | # | 프로젝트 | 핵심 성과 |
 |---|---------|----------|
